@@ -1,0 +1,6 @@
+[submodule "ts-lib"]
+	path = ts-lib
+	url = https://github.com/JeanMGirard/ts-lib.git
+[submodule "react-ts-lib"]
+	path = react-ts-lib
+	url = https://github.com/JeanMGirard/react-ts-lib.git
