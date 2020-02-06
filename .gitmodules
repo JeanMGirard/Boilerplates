@@ -4,3 +4,6 @@
 [submodule "react-ts-lib"]
 	path = react-ts-lib
 	url = https://github.com/JeanMGirard/react-ts-lib.git
+[submodule "oas-schema"]
+	path = oas-schema
+	url = https://github.com/JeanMGirard/oas-schema.git
